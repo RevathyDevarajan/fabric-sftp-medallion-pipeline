@@ -1,6 +1,15 @@
 # Microsoft Fabric — SFTP Medallion Pipeline
 
-A portfolio project demonstrating a production-style data engineering pipeline built on Microsoft Fabric. The pipeline ingests daily sales data from a local SFTP server, processes it through Bronze, Silver, and Gold layers following the Medallion Architecture, and produces aggregated business-ready Delta tables.
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-Trial-0078D4?style=flat&logo=microsoft)
+![Status](https://img.shields.io/badge/Status-v1.0_Complete-2E7D32?style=flat)
+![Platform](https://img.shields.io/badge/Platform-Windows_11-0078D4?style=flat&logo=windows)
+![Architecture](https://img.shields.io/badge/Architecture-Medallion-B45309?style=flat)
+![SFTP](https://img.shields.io/badge/SFTP-Bitvise_SSH_Server-2B547E?style=flat)
+![Cost](https://img.shields.io/badge/Cost-100%25_Free-2E7D32?style=flat)
+![PySpark](https://img.shields.io/badge/PySpark-3.x-E25A1C?style=flat&logo=apachespark)
+
+---
+This project demonstrating a production-style data engineering pipeline built on Microsoft Fabric. The pipeline ingests daily sales data from a local SFTP server, processes it through Bronze, Silver, and Gold layers following the Medallion Architecture, and produces aggregated business-ready Delta tables.
 
 All infrastructure used in this project is free. The SFTP server runs locally on a Windows 11 machine, connected to a Microsoft Fabric Trial workspace via the On-premises Data Gateway.
 
