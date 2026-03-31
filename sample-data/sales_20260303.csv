@@ -1,0 +1,6 @@
+TransactionID,Date,StoreID,ProductID,Quantity,UnitPrice,CustomerEmail
+T3001,2026-03-03,S002,P002,2,899.50,emma.brown@example.com
+T3002,2026-03-03,S001,P003,5,59.99,ethan.clark@example.com
+T3003,2026-03-03,S003,P001,1,499.99,ava.harris@example.com
+T3004,2026-03-03,S002,P003,2,59.99,mason.lewis@example.com
+T3005,2026-03-03,S001,P002,1,899.50,sophia.walker@example.com
